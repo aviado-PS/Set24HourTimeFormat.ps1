@@ -33,6 +33,9 @@ The script performs the following actions:
 - Applies the 24-hour time format to the current user profile and all loaded user profiles.
 - Restarts the Windows Explorer process to make the changes effective immediately across the system.
 
+## Author
+This script was authored by [aviado1](https://github.com/aviado1).
+
 ## Version
 
 - Version: 1.0
